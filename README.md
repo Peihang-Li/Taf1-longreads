@@ -1,2 +1,2 @@
 # Taf1-longreads
-Analysis and figure code for *Taf1 expression in mouse: novel transcripts and protein distribution*  
+Analysis code for *Systematic assessment of the mouse Taf1 locus reveals novel mRNA isoforms and differential protein distribution across brain regions*
